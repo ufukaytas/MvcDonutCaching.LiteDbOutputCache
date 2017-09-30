@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aytass.LiteDbOutputCache", "Aytass.LiteDbOutputCache\Aytass.LiteDbOutputCache.csproj", "{836754E8-D62B-4D01-A804-99E164174AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonutCacheWebApp", "DonutCacheWebApp\DonutCacheWebApp.csproj", "{3973345C-057C-43B7-B39C-E0DEB0420642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836754E8-D62B-4D01-A804-99E164174AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836754E8-D62B-4D01-A804-99E164174AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836754E8-D62B-4D01-A804-99E164174AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836754E8-D62B-4D01-A804-99E164174AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3973345C-057C-43B7-B39C-E0DEB0420642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3973345C-057C-43B7-B39C-E0DEB0420642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3973345C-057C-43B7-B39C-E0DEB0420642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3973345C-057C-43B7-B39C-E0DEB0420642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
