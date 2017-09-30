@@ -1,0 +1,2 @@
+# MvcDonutCaching.LiteDbOutputCache
+LiteDbOutputCache
